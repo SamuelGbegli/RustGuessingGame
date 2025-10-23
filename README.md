@@ -1,6 +1,9 @@
 # RustGuessingGame
 ## Overview
 This is a console based guessing game written in Rust, with the objective of guessing a number between 1 and 100 inclusive. This is a completed version of the Guessing Game exercise featured in the Rust Book ([viewable here](https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html)).
+
+<img width="1115" height="628" alt="Guessing game" src="https://github.com/user-attachments/assets/37b60511-8164-4789-ad7d-fc731aed8cb4" />
+
 ## File locations
 The source code can be found at the location guessing_game/src.
 
@@ -11,6 +14,7 @@ Ececutable files can be found in these locations:
 To compile the program, navigate to the guessing_game folder in a terminal and type one of the following commands (this only works if Rust is installed on your device):
 
 `cargo build` (builds to debug folder)
+
 `cargo build --release` (builds to release folder)
 
 ## How to play
